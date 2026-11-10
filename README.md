@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 10 14:32:04 2026
-
-@author: Aziz
-"""
-
 # Air Quality Data Analysis & Processing Pipeline
 
 ### Python | Pandas | NumPy | Matplotlib
