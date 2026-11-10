@@ -41,12 +41,21 @@ This project demonstrates an end-to-end data analysis workflow using Python. It 
 
 ## Visualizations
 
-The project generates four charts:
 
-- Sulfate Measurement Distribution
-- Sulfate vs. Nitrate Comparison
-- Monthly Average Pollutant Measurements
-- Top 10 Stations by Average Sulfate
+## Visualizations
+
+### Sulfate Distribution
+![Sulfate Distribution](Charts/sulfate_distribution.png)
+
+### Pollutant Comparison
+![Pollutant Comparison](Charts/pollutant_comparison.png)
+
+### Monthly Pollutant Trends
+![Monthly Trends](Charts/monthly_trends.png)
+
+### Top 10 Monitoring Stations
+![Top 10 Stations](Charts/top_10_stations.png)
+
 
 ## Running the Project
 
