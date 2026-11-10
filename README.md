@@ -31,9 +31,7 @@ This project demonstrates an end-to-end data analysis workflow using Python. It 
 3. **Exploratory Data Analysis:** Calculate descriptive statistics and compare average measurements by station.
 4. **Data Visualization:** Generate histograms, boxplots, monthly trend charts, and station comparisons.
 5. **Results Export:** Save cleaned datasets, aggregated summaries, charts, and a text report.
-
-## Visualizations
-
+   
 
 ## Visualizations
 
